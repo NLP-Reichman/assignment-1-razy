@@ -9,16 +9,19 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 21.29,
-    "en_on_fr": 43.39,
-    "en_on_tl": 68.46,
-    "en_on_nl": 53.74
+    "en_on_en": 18.94,
+    "en_on_fr": 39.94,
+    "en_on_tl": 44.43,
+    "en_on_nl": 40.63
   },
   "test_match": {
-    "df_shape": [256, 4],
-    "en_en_3": 21.285187755838415,
-    "en_tl_3": 68.45879441234496,
-    "en_nl_3": 53.741198176489014
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 18.942512385582223,
+    "en_tl_3": 44.432074487451295,
+    "en_nl_3": 40.62739973045556
   },
   "test_generate": {
     "english_2_gram": "I amoulpeginShmes bid ae",
